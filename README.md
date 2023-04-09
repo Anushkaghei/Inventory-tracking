@@ -1,4 +1,4 @@
-### ABSTRACT
+## ABSTRACT
 
 The aim of this project is to develop a system to track any kitchen inventory by sending a live video feed monitoring the quantity of food in each container, to a client using socket programming. The system consists of a camera, a server, and a client.  
 
