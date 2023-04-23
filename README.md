@@ -7,3 +7,7 @@ The client, which can be accessed remotely, connects to the server and receives 
 This allows the client to monitor the inventory and receive alerts when certain items are running low. The system is designed to be scalable and can be easily modified to include additional cameras or inventory locations. 
 
 The use of socket programming ensures that the system is responsive and can handle multiple clients simultaneously. The implementation of this system has the potential to save time and reduce waste by ensuring that the kitchen inventory is well-managed and properly tracked.
+
+## OUTPUTS
+
+![low level](https://user-images.githubusercontent.com/79694271/233861102-8fbe0856-24bf-47ff-a420-3426f3e9dfa2.jpeg)
