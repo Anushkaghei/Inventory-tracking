@@ -8,6 +8,7 @@ This allows the client to monitor the inventory and receive alerts when certain 
 
 The use of socket programming ensures that the system is responsive and can handle multiple clients simultaneously. The implementation of this system has the potential to save time and reduce waste by ensuring that the kitchen inventory is well-managed and properly tracked.
 
-## OUTPUTS
+## OUTPUT
 
-![low level](https://user-images.githubusercontent.com/79694271/233861102-8fbe0856-24bf-47ff-a420-3426f3e9dfa2.jpeg)
+![image](https://github.com/Anushkaghei/Inventory-tracking/assets/79694271/c543e972-11f3-4af8-9234-3e585fb63b34)
+
